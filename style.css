@@ -66,6 +66,12 @@ h2 {
   border: 1px solid white;
   font-size: 18px;
 }
+.result-container .btn:active {
+  width: 38px;
+  height: 38px;
+  font-size: 17px;
+  bottom: 6px;
+}
 
 .btn {
   background-color: var(--deepSpaceSparcle);
